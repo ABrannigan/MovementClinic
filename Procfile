@@ -1,1 +1,1 @@
-web: gunicorn app:apps
+gunicorn ob_clinic.wsgi
