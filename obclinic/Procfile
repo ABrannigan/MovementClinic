@@ -1,1 +1,1 @@
-web: gunicorn obclinic.obclinic.wsgi
+web: gunicorn obclinic.wsgi
