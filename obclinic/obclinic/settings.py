@@ -27,7 +27,7 @@ SECRET_KEY = 't**f^oklaa)cvn*a$d+tl_pmmx9-w9w6t&pd$vtz42fqyy#9z8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://movementclinic.herokuapp.com/']
 
 
 #tinymce Configuration
