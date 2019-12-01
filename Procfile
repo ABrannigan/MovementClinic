@@ -1,1 +1,1 @@
-web: gunicorn obclinic.wsgi --log-file -
+web: gunicorn obclinic.wsgi.application --log-file -
